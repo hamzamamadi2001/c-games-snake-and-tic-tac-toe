@@ -1,0 +1,8 @@
+{
+    "c-cpp-compile-run.run-in-external-terminal": true,
+    "terminal.explorerKind": "external",
+    "files.associations": {
+        "conio.h": "c"
+    }
+   
+}
